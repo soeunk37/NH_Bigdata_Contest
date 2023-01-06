@@ -3,25 +3,15 @@
     - 대회 주제 : 고객 및 거래 데이터를 활용한 Digital 고객 분석
 
 2. 핵심 장표 요약
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4d35511-f72d-4600-b7b6-02576035e190/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c9638ee0-0ce6-46b1-98e1-52609ce0ee4f/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d56069d-e9d7-4e5b-90dd-2748cb475f29/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4721b145-862f-4d7a-a36e-39b9841e4748/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f8f55515-b3af-48e2-9fba-ab098971240d/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e7137f5-d032-478f-84d8-ad70806009ff/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d1a52df-1bf2-482e-99a4-a40001a2c67f/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea99dfa7-43e4-45c7-a1ba-d542285b1380/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0133c221-46db-4d9c-b6e4-99f29afc5cfa/Untitled.png)
-
+![image](https://user-images.githubusercontent.com/79136542/210935341-70d2a29e-745c-4db4-b769-11cdc4a6b3dc.png)
+![image](https://user-images.githubusercontent.com/79136542/210935365-ca054bfb-017e-478d-aabf-1534a7fb8342.png)
+![image](https://user-images.githubusercontent.com/79136542/210935373-2baff030-c16e-4e20-b88c-b8ca778516af.png)
+![image](https://user-images.githubusercontent.com/79136542/210935386-73f0166b-f317-4e19-a916-c950dbf0d4f0.png)
+![image](https://user-images.githubusercontent.com/79136542/210935393-fe676473-027b-4aff-97c2-8146b8836365.png)
+![image](https://user-images.githubusercontent.com/79136542/210935408-73bf706a-3749-466f-b80b-00ab03190a7f.png)
+![image](https://user-images.githubusercontent.com/79136542/210935423-919130c4-6457-47bc-ae89-6169071f59ba.png)
+![image](https://user-images.githubusercontent.com/79136542/210935440-bcd82c8d-9acd-438b-806b-4fe4595670cc.png)
+![image](https://user-images.githubusercontent.com/79136542/210935457-63ec48d1-2995-4e88-b772-28c30b858cca.png)
 
 3. 제공 데이터 및 본선코드
 
