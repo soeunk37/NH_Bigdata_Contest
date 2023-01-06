@@ -1,6 +1,7 @@
 # NH_Bigdata_Contest
 1. **2022년 NH투자증권 빅데이터 경진대회** 참여 
     - 대회 주제 : 고객 및 거래 데이터를 활용한 Digital 고객 분석
+    - 입선상 수상
 
 2. 핵심 장표 요약
 ![image](https://user-images.githubusercontent.com/79136542/210935341-70d2a29e-745c-4db4-b769-11cdc4a6b3dc.png)
